@@ -4,7 +4,7 @@
 
 I have a long file of quotes. I want to copy specific ones to the bottom, then return to the same spot in the text file.
 
-You can download the .sublime-macro file and put it in any Sublime Text package folder. It will show up under Tools | Macros | <PackageName>. For instance, you can put it in Sublime Text's /Packages/User folder.
+You can download the .sublime-macro file and put it in any Sublime Text package folder. It will show up under Tools | Macros | (PackageName). For instance, you can put it in Sublime Text's /Packages/User folder.
 
 If you have a Mac and want to create the macro from scratch, the instructions are below.
 
