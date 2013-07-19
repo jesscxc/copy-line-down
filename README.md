@@ -1,10 +1,13 @@
 
-# Use Sublime Text to Copy Lines To Bottom of File
+# Use Sublime Text to Copy a Line to the Bottom of a File
 
 
-I have a long file of quotes. Using Sublime Text and a Mac, I want to copy specific ones to the bottom, then return to the same spot in the text file.
+I have a long file of quotes. I want to copy specific ones to the bottom, then return to the same spot in the text file.
 
-This is a macro to do just that.
+You can download the .sublime-macro file and put it in any Sublime Text package folder. It will show up under Tools | Macros | <PackageName>. For instance, you can put it in Sublime Text's /Packages/User folder.
+
+If you have a Mac and want to create the macro from scratch, the instructions are below.
+
 
 To activate the F2 key, remember to hold the 'fn' key in the very bottom left of the keyboard while hitting the F2 key.
 
@@ -31,8 +34,9 @@ CTRL+Q; stop recording macro
 Now put the cursor in front of the line you want to copy and move down and:
 CTRL+SHIFT+Q; activate macro
 
-Hope that's useful.
+I hope that's useful.
 
-2013-07
-Jesse Cummins
+
+2013-07 | 
+Jesse Cummins | 
 https://github.com/jessc
